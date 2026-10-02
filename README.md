@@ -1,6 +1,6 @@
-# Clipmaker releases
+# Klipnik releases
 
-Installers and update files for **Clipmaker**, a Windows app that turns long videos into short
+Installers and update files for **Klipnik**, a Windows app that turns long videos into short
 clips for TikTok, YouTube Shorts and Instagram Reels.
 
 - **Download:** the latest installer is under [Releases](../../releases/latest).
